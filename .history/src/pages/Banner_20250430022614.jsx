@@ -1,0 +1,14 @@
+import React from 'react'
+
+const Banner = () => {
+  return (
+    <div>
+    <Swiper className="mySwiper">
+        <SwiperSlide>Slide 1</SwiperSlide>
+     
+      </Swiper>
+    </div>
+  )
+}
+
+export default Banner
